@@ -1,0 +1,10 @@
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\bin\Debug\netcoreapp1.1\GeradorQRCodeNFCe.deps.json
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\bin\Debug\netcoreapp1.1\GeradorQRCodeNFCe.dll
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\bin\Debug\netcoreapp1.1\GeradorQRCodeNFCe.pdb
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\obj\Debug\netcoreapp1.1\GeradorQRCodeNFCe.csprojResolveAssemblyReference.cache
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\obj\Debug\netcoreapp1.1\GeradorQRCodeNFCe.AssemblyInfo.cs
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\obj\Debug\netcoreapp1.1\GeradorQRCodeNFCe.dll
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\obj\Debug\netcoreapp1.1\GeradorQRCodeNFCe.pdb
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\bin\Debug\netcoreapp1.1\Program.cs
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\bin\Debug\netcoreapp1.1\GeradorQRCodeNFCe.runtimeconfig.json
+D:\Leandro\Projetos\Gerar QRCode NFCe\GeradorQRCodeNFCe\GeradorQRCodeNFCe\bin\Debug\netcoreapp1.1\GeradorQRCodeNFCe.runtimeconfig.dev.json
